@@ -1,0 +1,8 @@
+.claude/
+reorder.py
+extract.py
+tarifarios/extract.py
+dashboard-agm-clean.html
+dashboard-agm-encoded.html
+dashboard-final.html
+deploy-netlify/
